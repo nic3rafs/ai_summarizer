@@ -1,0 +1,1 @@
+An GPT-3 article summarizer made along with [this](https://youtu.be/vpvtZZi5ZWk) video
